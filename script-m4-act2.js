@@ -9,6 +9,6 @@ function val(){
         alert("Value B is higher.");
     }
     else{
-        alert("Value A and B are equal.");
+        alert("Values A and B are equal.");
     }
 }
